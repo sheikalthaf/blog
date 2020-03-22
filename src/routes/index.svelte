@@ -33,14 +33,14 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>sheik althaf | home</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Sheik Althaf!</h1>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>Site is under construction...</strong></p>
